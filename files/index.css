@@ -1,0 +1,66 @@
+
+.body{
+    margin: 2vw;
+    font-family: 'Acme', sans-serif;
+
+}
+
+
+
+
+
+
+@media only screen and (min-width: 768px){
+    .nav-font{
+        margin: .2vw;
+        font-size: 1.5vw;}
+
+    .nav-brand{
+        font-size: 1.8vw;
+        font-weight: bold;
+    }
+    .des-text{
+        font-size: 1.2vw;
+    }
+    .p-list-box{
+        margin-left: 1vw;
+        margin-right: 1vw;
+        margin-bottom: 1vw;
+        width: 98%;
+    }
+}
+
+.main-body{
+   text-align: center;  
+}
+
+.mynav{
+    border: 1px solid rgb(109, 107, 107,0.4);
+}
+
+h1{
+    text-decoration: underline;
+    color: blue;
+}
+h2{
+    color: blue;
+}
+.lan-name{
+    /* border: 1px solid black;
+    border-left: none; border-right: none; */
+    margin-top: 2vw; margin-bottom: 1vw;
+    color: red;
+}
+.card{
+    padding:0.8vw;
+    padding-top: 0.2vw;
+}
+.card-colr{
+    background: rgba(149, 175, 247, 0.3)
+}
+.each-p-item{
+padding-top: 1vw;
+}
+.card-colr2{
+    background-color: rgba(13, 235, 13, 0.3);
+}
